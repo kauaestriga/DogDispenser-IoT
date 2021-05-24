@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "525384783494",
+    "project_id": "dogdispenser-iot",
+    "storage_bucket": "dogdispenser-iot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525384783494:android:1bd20c147e01cd6611a307",
+        "android_client_info": {
+          "package_name": "com.example.dogdispenser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525384783494-t5giirev63h4vlgfp184ta70qnn8r5rf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCOuC-wMpKlNkMU0Bb_omhEMY2HSm9bIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525384783494-t5giirev63h4vlgfp184ta70qnn8r5rf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

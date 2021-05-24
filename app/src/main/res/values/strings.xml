@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DogDispenser</string>
+    <string name="qtd_dispenser">Quantidade no dispenser\n\n %1$s kgs</string>
+    <string name="qtd_bowl">Pote do cachorro\n %1$s</string>
+    <string name="settings">Configurações</string>
+    <string name="add">Adicionar</string>
+    <string name="action_amount">Quantidade por acionamento</string>
+    <string name="action_amount_hint">Insira um valor (ex. 0.95)</string>
+    <string name="update">Atualizar</string>
+    <string name="success_save">Salvo com sucesso</string>
+    <string name="success_recharge">Recarga feita com sucesso</string>
+    <string name="success_trigger">Gatilho acionado com sucesso</string>
+    <string name="recharge">Recarregar</string>
+</resources>
